@@ -1,6 +1,6 @@
 {
   "name": "recaptcha-test-keys",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The ReCaptcha widget keys for testing and development environments.",
   "main": "index.js",
   "keywords": [
