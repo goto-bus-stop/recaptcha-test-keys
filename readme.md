@@ -1,5 +1,7 @@
 # recaptcha-test-keys
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/goto-bus-stop/recaptcha-test-keys.svg)](https://greenkeeper.io/)
+
 The ReCaptcha widget keys for testing and development environments, but as a
 Node.js module with a name.
 
