@@ -1,7 +1,7 @@
 {
   "name": "recaptcha-test-keys",
   "description": "The ReCaptcha widget keys for testing and development environments.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": "https://github.com/goto-bus-stop/recaptcha-test-keys/issues",
   "homepage": "https://github.com/goto-bus-stop/recaptcha-test-keys",
